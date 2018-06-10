@@ -1,0 +1,14 @@
+{
+  "name": "new_cv",
+  "version": "1.0.0",
+  "description": "a new cv I've created to get some of that good xp",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass":"node-sass sass/main.scss css/style.css"
+  },
+  "author": "Kevork Sulahian",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.9.0"
+  }
+}
